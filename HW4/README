@@ -1,0 +1,24 @@
+hw4: Projections in 3D
+
+John Osborne
+CSCI4229/5229 Fall 2019
+
+Allow a scene to be naviageted in top down orthographic, top down perspective, and first person
+
+Key bindings
+  m          Toggle between perspective and orthogonal
+  +/-        Changes field of view for perspective
+  a          Toggle axes
+  arrows     Change view angle
+  In First Person -
+ 		W      Move forward
+ 		A      Move Backward
+ 		S      Strafe Left
+ 		D      Strafe Right
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+  To Run:
+  "make" to build
+  hw4.exe to run
