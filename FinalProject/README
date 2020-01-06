@@ -1,0 +1,24 @@
+Final Project
+
+John Osborne
+CSCI4229/5229 Fall 2019
+
+Create a scene a player can navigate in first person with the light of a flashlight
+
+Key bindings
+  WASD		 Move Player
+  arrows     Change view angle
+  N/n		 Enable/Disable Collision Detection
+  Shift W    Sprint Forward
+  ESC        Exit
+
+  To Run:
+  put all included files in one directory
+  Run 'make' to generate an executable named 'main', the project requires opengl, glut, and glew to be in the PATH
+  Run 'main'
+
+  This took roughly 100+ hours
+
+  The project evolved from a maze into more of an interactive scene. The final project focuses 
+  more on highlighting the two per pixel spotlight shaders created to give the illusion of a 
+  flashlight and a spinning hazard light.
